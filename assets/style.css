@@ -52,6 +52,7 @@ a {
 
 #about-me p {
     text-indent: 0.3in;
+    font-size: 20px;
 }
 
 #work img {
@@ -88,7 +89,7 @@ a {
 }
 
 @media screen (max-width: 690px) {
-      font-size::after 1rem;
+      font-size: 1rem;
       margin: 16px 0px 0px 0px;
       padding: 10px 15px;
   }
